@@ -19,4 +19,9 @@ export const projectData = [
     value: "smartinvest",
     label: "Smart Invest",
   },
+  {
+    id: 5,
+    value: "tejamkor",
+    label: "Tejamkor yechim",
+  },
 ];
