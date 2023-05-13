@@ -1,7 +1,7 @@
 import React from "react";
 import { Spin } from "antd";
 
-function FullPageLoader(props) {
+function FullPageLoader() {
   return (
     <div
       className="fp-container"
