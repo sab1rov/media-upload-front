@@ -20,7 +20,7 @@ export const projectData = [
     label: "Smart Invest",
   },
   {
-    id: 4,
+    id: 5,
     value: "tejamkor",
     label: "Tejamkor yechim",
   },
